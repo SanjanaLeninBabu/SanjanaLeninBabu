@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 -->
 <h1 aligh="center">Hi there, I am Sanjana L</h1>
 - 🔭 I’m currently studying in <strong>M.S.Ramaiah institute of technology</strong>
-&nbsp;
+<br>
 - 💬 Ask me about <strong>M S Excel, SQL, Python</strong>
-&nbsp;
+<br>
 - 🌱 I’m currently learning <strong>Statistics, Business Intelligence, Data Storage techniques</strong>
-&nbsp;
+<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/sanjana-l-2a2b0627b/" target="_blank">Sanjana L</a>
-&nbsp;
+<br>
 - 😄 Pronouns: She/Her
-&nbsp;&nbsp;&nbsp;
+<br>
+<hr>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sanjana-l-2a2b0627b/" target="_blank"><img src="https://github.com/user-attachments/assets/7f1fe2d7-75c8-4d9e-be9b-b8658aa56832" height="30" widht="30"></a>
